@@ -1,19 +1,5 @@
 # Add in your CPP codes here
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //Sum of all pair shortest paths in a Tree
 // C++ program for the above approach 
 
